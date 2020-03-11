@@ -1,2 +1,0 @@
-# coderoom-develop
-Developing coderoom
